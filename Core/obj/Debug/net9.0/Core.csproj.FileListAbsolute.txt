@@ -10,3 +10,4 @@ C:\Users\panka\Desktop\DotNet\EcommerceWeb_With_Angular\Core\obj\Debug\net9.0\Co
 C:\Users\panka\Desktop\DotNet\EcommerceWeb_With_Angular\Core\obj\Debug\net9.0\refint\Core.dll
 C:\Users\panka\Desktop\DotNet\EcommerceWeb_With_Angular\Core\obj\Debug\net9.0\Core.pdb
 C:\Users\panka\Desktop\DotNet\EcommerceWeb_With_Angular\Core\obj\Debug\net9.0\ref\Core.dll
+C:\Users\panka\Desktop\DotNet\EcommerceWeb_With_Angular\Core\obj\Debug\net9.0\Core.sourcelink.json

@@ -15,3 +15,4 @@ C:\Users\panka\Desktop\DotNet\EcommerceWeb_With_Angular\Infrastructure\obj\Debug
 C:\Users\panka\Desktop\DotNet\EcommerceWeb_With_Angular\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
 C:\Users\panka\Desktop\DotNet\EcommerceWeb_With_Angular\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
 C:\Users\panka\Desktop\DotNet\EcommerceWeb_With_Angular\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\Users\panka\Desktop\DotNet\EcommerceWeb_With_Angular\Infrastructure\obj\Debug\net9.0\Infrastructure.sourcelink.json

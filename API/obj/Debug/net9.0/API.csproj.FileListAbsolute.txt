@@ -171,3 +171,4 @@ C:\Users\panka\Desktop\DotNet\EcommerceWeb_With_Angular\API\obj\Debug\net9.0\ref
 C:\Users\panka\Desktop\DotNet\EcommerceWeb_With_Angular\API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\panka\Desktop\DotNet\EcommerceWeb_With_Angular\API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\panka\Desktop\DotNet\EcommerceWeb_With_Angular\API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\panka\Desktop\DotNet\EcommerceWeb_With_Angular\API\obj\Debug\net9.0\API.sourcelink.json
