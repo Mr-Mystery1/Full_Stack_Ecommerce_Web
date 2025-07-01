@@ -1,4 +1,5 @@
 using API.Controllers.Prod;
+using Core.Interfaces;
 using Core.Interfaces.Products;
 using Infrastructure.Data;
 using Infrastructure.Data.Products;
@@ -12,6 +13,7 @@ builder.Services.AddControllers();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<StoreContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped(typeof(IGenericRepository<>),typeof(GenericRepository<>));
 
 
 
