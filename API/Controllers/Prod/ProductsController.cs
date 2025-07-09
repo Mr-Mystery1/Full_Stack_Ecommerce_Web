@@ -18,7 +18,7 @@ namespace API.Controllers.Prod
         [HttpGet]
         public async Task<ActionResult<IReadOnlyList<Product>>> GetProducts(string? brand, string? type,string? sort)
         {
-            var spec = new ProductSpecification(brand, type);
+            var spec = new ProductSpecification(brand, type, sort);
             var products = await repo.ListAsync(spec);
 
 
@@ -60,10 +60,6 @@ namespace API.Controllers.Prod
             return BadRequest("Problem updating product ..");
 
         }
-        private bool ProductExists(int id) 
-        {
-            return repo.Exists(id);
-        }
 
         [HttpDelete("{id:int}")]
         public async Task<ActionResult> DeleteUpdate(int id)
@@ -84,15 +80,19 @@ namespace API.Controllers.Prod
         [HttpGet("brands")]
         public async Task<ActionResult<IReadOnlyList<string>>> GetBrands()
         {
-            //To do Implement Method
-            return Ok();
+            var spec = new BrandListSpecification();
+            return Ok(await repo.ListAsync(spec));
         }
 
         [HttpGet("types")]
         public async Task<ActionResult<IReadOnlyList<string>>> GetTypes()
         {
-            //To do Implement Method
-            return Ok(); 
+            var spec = new TypeListSpecification();
+            return Ok(await repo.ListAsync(spec)); 
+        }
+        private bool ProductExists(int id) 
+        {
+            return repo.Exists(id);
         }
     }
 }

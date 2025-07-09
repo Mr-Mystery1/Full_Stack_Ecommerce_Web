@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\panka\\Desktop\\DotNet\\EcommerceWeb_With_Angular\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CC1EBB5-79E7-4943-8E30-A2E80F0EF420}|Core\\Core.csproj|c:\\users\\panka\\desktop\\dotnet\\ecommerceweb_with_angular\\core\\specifications\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CC1EBB5-79E7-4943-8E30-A2E80F0EF420}|Core\\Core.csproj|solutionrelative:core\\specifications\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81ADFF5D-CB14-42C5-8F2C-F3355D47D1CF}|API\\API.csproj|c:\\users\\panka\\desktop\\dotnet\\ecommerceweb_with_angular\\api\\controllers\\prod\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81ADFF5D-CB14-42C5-8F2C-F3355D47D1CF}|API\\API.csproj|solutionrelative:api\\controllers\\prod\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC1EBB5-79E7-4943-8E30-A2E80F0EF420}|Core\\Core.csproj|c:\\users\\panka\\desktop\\dotnet\\ecommerceweb_with_angular\\core\\specifications\\typelistspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC1EBB5-79E7-4943-8E30-A2E80F0EF420}|Core\\Core.csproj|solutionrelative:core\\specifications\\typelistspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC1EBB5-79E7-4943-8E30-A2E80F0EF420}|Core\\Core.csproj|c:\\users\\panka\\desktop\\dotnet\\ecommerceweb_with_angular\\core\\specifications\\brandlistspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC1EBB5-79E7-4943-8E30-A2E80F0EF420}|Core\\Core.csproj|solutionrelative:core\\specifications\\brandlistspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CC1EBB5-79E7-4943-8E30-A2E80F0EF420}|Core\\Core.csproj|c:\\users\\panka\\desktop\\dotnet\\ecommerceweb_with_angular\\core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CC1EBB5-79E7-4943-8E30-A2E80F0EF420}|Core\\Core.csproj|solutionrelative:core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67C47E78-76DA-4832-8C7B-CAD3564761A2}|Infrastructure\\Infrastructure.csproj|c:\\users\\panka\\desktop\\dotnet\\ecommerceweb_with_angular\\infrastructure\\data\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67C47E78-76DA-4832-8C7B-CAD3564761A2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CC1EBB5-79E7-4943-8E30-A2E80F0EF420}|Core\\Core.csproj|c:\\users\\panka\\desktop\\dotnet\\ecommerceweb_with_angular\\core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CC1EBB5-79E7-4943-8E30-A2E80F0EF420}|Core\\Core.csproj|solutionrelative:core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67C47E78-76DA-4832-8C7B-CAD3564761A2}|Infrastructure\\Infrastructure.csproj|c:\\users\\panka\\desktop\\dotnet\\ecommerceweb_with_angular\\infrastructure\\data\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +27,20 @@
       "RelativeMoniker": "D:0:0:{1CC1EBB5-79E7-4943-8E30-A2E80F0EF420}|Core\\Core.csproj|solutionrelative:core\\interfaces\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81ADFF5D-CB14-42C5-8F2C-F3355D47D1CF}|API\\API.csproj|c:\\users\\panka\\desktop\\dotnet\\ecommerceweb_with_angular\\api\\controllers\\prod\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81ADFF5D-CB14-42C5-8F2C-F3355D47D1CF}|API\\API.csproj|solutionrelative:api\\controllers\\prod\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67C47E78-76DA-4832-8C7B-CAD3564761A2}|Infrastructure\\Infrastructure.csproj|c:\\users\\panka\\desktop\\dotnet\\ecommerceweb_with_angular\\infrastructure\\data\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C47E78-76DA-4832-8C7B-CAD3564761A2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC1EBB5-79E7-4943-8E30-A2E80F0EF420}|Core\\Core.csproj|c:\\users\\panka\\desktop\\dotnet\\ecommerceweb_with_angular\\core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC1EBB5-79E7-4943-8E30-A2E80F0EF420}|Core\\Core.csproj|solutionrelative:core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC1EBB5-79E7-4943-8E30-A2E80F0EF420}|Core\\Core.csproj|c:\\users\\panka\\desktop\\dotnet\\ecommerceweb_with_angular\\core\\specifications\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC1EBB5-79E7-4943-8E30-A2E80F0EF420}|Core\\Core.csproj|solutionrelative:core\\specifications\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C47E78-76DA-4832-8C7B-CAD3564761A2}|Infrastructure\\Infrastructure.csproj|c:\\users\\panka\\desktop\\dotnet\\ecommerceweb_with_angular\\infrastructure\\data\\products\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C47E78-76DA-4832-8C7B-CAD3564761A2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\products\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,41 +54,67 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TypeListSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\EcommerceWeb_With_Angular\\Core\\Specifications\\TypeListSpecification.cs",
+              "RelativeDocumentMoniker": "Core\\Specifications\\TypeListSpecification.cs",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\EcommerceWeb_With_Angular\\Core\\Specifications\\TypeListSpecification.cs",
+              "RelativeToolTip": "Core\\Specifications\\TypeListSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T11:42:27.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "BrandListSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\EcommerceWeb_With_Angular\\Core\\Specifications\\BrandListSpecification.cs",
+              "RelativeDocumentMoniker": "Core\\Specifications\\BrandListSpecification.cs",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\EcommerceWeb_With_Angular\\Core\\Specifications\\BrandListSpecification.cs",
+              "RelativeToolTip": "Core\\Specifications\\BrandListSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T11:04:58.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\EcommerceWeb_With_Angular\\Infrastructure\\Data\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\GenericRepository.cs",
               "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\EcommerceWeb_With_Angular\\Infrastructure\\Data\\GenericRepository.cs",
               "RelativeToolTip": "Infrastructure\\Data\\GenericRepository.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAA1wDUAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwD0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T13:03:38.103Z",
+              "WhenOpened": "2025-07-09T06:40:01.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\EcommerceWeb_With_Angular\\Core\\Interfaces\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "Core\\Interfaces\\IGenericRepository.cs",
               "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\EcommerceWeb_With_Angular\\Core\\Interfaces\\IGenericRepository.cs",
               "RelativeToolTip": "Core\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAwAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T13:02:13.481Z",
+              "WhenOpened": "2025-07-09T06:33:26.862Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SpecificationEvaluator.cs",
-              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\EcommerceWeb_With_Angular\\Infrastructure\\Data\\SpecificationEvaluator.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\SpecificationEvaluator.cs",
-              "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\EcommerceWeb_With_Angular\\Infrastructure\\Data\\SpecificationEvaluator.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\SpecificationEvaluator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\EcommerceWeb_With_Angular\\Infrastructure\\Data\\Products\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Products\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\EcommerceWeb_With_Angular\\Infrastructure\\Data\\Products\\ProductRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Products\\ProductRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwEEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T13:00:53.617Z",
+              "WhenOpened": "2025-07-09T05:33:42.252Z",
               "EditorCaption": ""
             },
             {
@@ -89,13 +127,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "SpecificationEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\EcommerceWeb_With_Angular\\Infrastructure\\Data\\SpecificationEvaluator.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\SpecificationEvaluator.cs",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\EcommerceWeb_With_Angular\\Infrastructure\\Data\\SpecificationEvaluator.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\SpecificationEvaluator.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAswD4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T13:00:53.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\EcommerceWeb_With_Angular\\API\\Controllers\\Prod\\ProductsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\Prod\\ProductsController.cs",
               "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\EcommerceWeb_With_Angular\\API\\Controllers\\Prod\\ProductsController.cs",
               "RelativeToolTip": "API\\Controllers\\Prod\\ProductsController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAkwFwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T12:15:14.032Z",
               "EditorCaption": ""
@@ -108,33 +159,33 @@
               "RelativeDocumentMoniker": "Core\\Interfaces\\ISpecification.cs",
               "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\EcommerceWeb_With_Angular\\Core\\Interfaces\\ISpecification.cs",
               "RelativeToolTip": "Core\\Interfaces\\ISpecification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T12:05:43.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BaseSpecification.cs",
               "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\EcommerceWeb_With_Angular\\Core\\Specifications\\BaseSpecification.cs",
               "RelativeDocumentMoniker": "Core\\Specifications\\BaseSpecification.cs",
               "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\EcommerceWeb_With_Angular\\Core\\Specifications\\BaseSpecification.cs",
               "RelativeToolTip": "Core\\Specifications\\BaseSpecification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvy4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T12:03:56.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "ProductSpecification.cs",
               "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\EcommerceWeb_With_Angular\\Core\\Specifications\\ProductSpecification.cs",
               "RelativeDocumentMoniker": "Core\\Specifications\\ProductSpecification.cs",
               "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\EcommerceWeb_With_Angular\\Core\\Specifications\\ProductSpecification.cs",
               "RelativeToolTip": "Core\\Specifications\\ProductSpecification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T12:01:37.919Z",
               "EditorCaption": ""
