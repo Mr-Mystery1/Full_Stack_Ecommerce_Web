@@ -5,6 +5,85 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/Buggy/unauthorized": {
+      "get": {
+        "tags": [
+          "Buggy"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Buggy/badrequest": {
+      "get": {
+        "tags": [
+          "Buggy"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Buggy/notfound": {
+      "get": {
+        "tags": [
+          "Buggy"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Buggy/internalerror": {
+      "get": {
+        "tags": [
+          "Buggy"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Buggy/validationerror": {
+      "post": {
+        "tags": [
+          "Buggy"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateProductDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateProductDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateProductDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Products": {
       "get": {
         "tags": [
@@ -338,6 +417,50 @@
   },
   "components": {
     "schemas": {
+      "CreateProductDTO": {
+        "required": [
+          "brand",
+          "description",
+          "name",
+          "pictureUrl",
+          "type"
+        ],
+        "type": "object",
+        "properties": {
+          "name": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "description": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "price": {
+            "minimum": 0.01,
+            "type": "number",
+            "format": "double"
+          },
+          "pictureUrl": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "type": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "brand": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "quantityInStock": {
+            "maximum": 2147483647,
+            "minimum": 1,
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
       "Product": {
         "required": [
           "brand",

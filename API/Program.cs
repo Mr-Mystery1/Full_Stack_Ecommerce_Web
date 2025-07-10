@@ -1,4 +1,5 @@
 using API.Controllers.Prod;
+using API.Middleware;
 using Core.Interfaces;
 using Core.Interfaces.Products;
 using Infrastructure.Data;
@@ -36,6 +37,7 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+app.UseMiddleware<ExceptionMiddleware>();
 
 try
 {

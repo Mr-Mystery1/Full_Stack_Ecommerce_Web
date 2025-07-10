@@ -1,5 +1,61 @@
 [
   {
+    "ContainingType": "API.Controllers.BuggyController",
+    "Method": "GetBadRequest",
+    "RelativePath": "api/Buggy/badrequest",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.BuggyController",
+    "Method": "GetInternalError",
+    "RelativePath": "api/Buggy/internalerror",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.BuggyController",
+    "Method": "GetNotFound",
+    "RelativePath": "api/Buggy/notfound",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.BuggyController",
+    "Method": "GetUnauthorized",
+    "RelativePath": "api/Buggy/unauthorized",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.BuggyController",
+    "Method": "GetValidationError",
+    "RelativePath": "api/Buggy/validationerror",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "API.DTOs.CreateProductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "API.Controllers.Prod.ProductsController",
     "Method": "GetProducts",
     "RelativePath": "api/Products",
