@@ -1,0 +1,21 @@
+# Ignore Visual Studio folders and files
+.vs/
+*.user
+*.suo
+
+# Ignore build output folders
+bin/
+obj/
+
+# Ignore logs, cache, etc.
+*.log
+*.cache
+*.db
+*.pid
+
+# Ignore system files
+Thumbs.db
+.DS_Store
+
+# Ignore user settings
+*.vscode/
