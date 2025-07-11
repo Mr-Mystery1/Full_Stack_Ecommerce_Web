@@ -1,6 +1,4 @@
 ﻿using API.DTOs;
-using Core.Entities.Products;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
